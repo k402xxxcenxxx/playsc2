@@ -1,5 +1,5 @@
 # playsc2
-Try [pysc2](https://github.com/deepmind/pysc2) and update tutoral code.
+Try [pysc2](https://github.com/deepmind/pysc2) and update tutorial code.
 來玩玩 pysc2，然後發現tutorial有點舊，所以來練習順便更新tutorial的code吧
 ## Run an default agent
 ```
